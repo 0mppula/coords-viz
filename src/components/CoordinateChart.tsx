@@ -142,7 +142,7 @@ export default function CoordinateChart({ locations, selectedId, onSelect }: Coo
 					<div className="chart-empty-overlay">
 						<div className="chart-empty-overlay__inner">
 							<strong>The grid is empty</strong>
-							Add a city on the left to plot your first coordinate.
+							Add a location on the left to plot your first coordinate.
 						</div>
 					</div>
 				)}
