@@ -35,7 +35,7 @@ export default function StatsCards({ stats }: StatsCardsProps) {
 			accent: true,
 		},
 		{
-			label: 'Countries visited',
+			label: 'Countries',
 			value: String(stats.countries),
 			accent: true,
 		},
